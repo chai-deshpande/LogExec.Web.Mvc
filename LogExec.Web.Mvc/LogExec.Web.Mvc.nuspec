@@ -6,12 +6,12 @@
     <title>$title$</title>
     <authors>$author$</authors>
     <owners>$author$</owners>
-    <licenseUrl>https://github.com/chai-deshpande/LogExec/blob/master/LICENSE</licenseUrl>
-    <projectUrl>https://github.com/chai-deshpande/LogExec</projectUrl>
+    <licenseUrl>https://github.com/chai-deshpande/LogExec.Web.Mvc/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/chai-deshpande/LogExec.Web.Mvc</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
     <releaseNotes>Initial release.</releaseNotes>
     <copyright>Copyright 2014</copyright>
-    <tags>ASP.NET MVC Log Execution time filter</tags>
+    <tags>ASP.NET MVC logging execution log performance logger</tags>
   </metadata>
 </package>
