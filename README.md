@@ -33,3 +33,12 @@ Notice the attribute `[LogExecTime]` applied on the `HomeController`. This indic
 NEXUS INFO  2014-02-15 17:27:25,579   thread:5         40408ms LogExec.ExecutionTimeLogger => Execution time for [Home.Index]: [276] ms
 NEXUS INFO  2014-02-15 17:27:29,281   thread:5         44110ms LogExec.ExecutionTimeLogger => Execution time for [Test.About]: [1536] ms
 ```
+## Nuget Package
+Nuget package is available at https://www.nuget.org/packages/LogExec.Web.Mvc/
+
+## Releases
+**22-Apr-2015**
+  1. Upgraded to LogExec v1.0.5372.41563
+  
+**15-Feb-2014**
+  1. Initial release - contains an attribute for logging execution time of ASP.NET MVC Controllers Actions
